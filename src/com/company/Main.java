@@ -13,6 +13,10 @@ public class Main {
         //how is this being stored in the memory?
         String c="gunwant";
         String b="gunwant";
+
+        //PROOF
+        System.out.println(c==b); //will show true;
+
         //here both of them are pointing to the same string in the heap pool
         //Similarly it would not create 10 objects of gunwant if 10 reference variables are created.
         //all variables will point to the same object.
