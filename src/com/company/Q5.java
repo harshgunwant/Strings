@@ -2,9 +2,10 @@ package com.company;
 
 public class Q5 {
     public static void main(String[] args) {
-        String[] word1=new String[]{"ab", "c"};
-        char a=(word1[0]).charAt(1);
-        System.out.println(a);
+//        String[] word1=new String[]{"ab", "c"};
+//        char a=(word1[0]).charAt(1);
+//        System.out.println(a);
+        System.out.println(720/26);
 //        String[] word2= new String[]{"a", "bc"};
 //        System.out.println(Equeals(word1,word2));
 
